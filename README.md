@@ -1,16 +1,38 @@
-### Hi there 👋
 
-<!--
-**keyiflerolsun/keyiflerolsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hakkımda 🙂
 
-Here are some ideas to get you started:
+> ### hiç bi kere hayat bayram olmadı ya da her nefes alışımız bayramdı 🎶 ###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+{
+	'country' : 'TR',
+	'city'    : 'Çanakkale',
+	'hobbies' : [
+		"ride bike",
+		"backpacking",
+		"camping"
+		]
+}
+```
+### Bana Ulaş 👇
+<p>
+  <a href="https://instagram.com/keyiflerolsun">
+    <img align="left" alt="Ömer Faruk Sancak instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
+  </a>
+  <a href="https://t.me/keyiflerolsun">
+      <img align="left" alt="Ömer Faruk Sancak Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
+  </a>
+  <a href="https://facebook.com/keyiflerolsun">
+    <img align="left" alt="Ömer Faruk Sancak Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
+  </a>
+  <a href="https://youtube.com/c/keyiflerolsun">
+    <img align="left" alt="Ömer Faruk Sancak Youtube" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
+  </a>
+  
+</p>
+</br>
+</br>
+
+### Naaabüüm ⚡️
+
+![Github Stats](https://readmestats.vercel.app/api?username=keyiflerolsun&show_icons=true&title_color=333&icon_color=d43111&count_private=true&include_all_commits=true)
