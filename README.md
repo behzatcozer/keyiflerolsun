@@ -3,16 +3,20 @@
 
 > ### hiç bi kere hayat bayram olmadı ya da her nefes alışımız bayramdı 🎶 ###
 
-```
-{
-	'country' : 'TR',
-	'city'    : 'Çanakkale',
-	'hobbies' : [
-		"ride bike",
-		"backpacking",
-		"camping"
-		]
-}
+```python
+def keyiflerolsun():
+    bilgiler = {
+        'sehir'   : 'Çanakkale',
+        'meslek'  : 'Motosikletli Kurye',
+        'yas'     : '1995',
+        'hobiler' : [
+            'Sırt Çantasıyla Seyahat',
+            'Kamp Yapmak',
+            'Kod Yazmak'
+            ]
+    }
+
+    return bilgiler
 ```
 ### Bana Ulaş 👇
 <p>
